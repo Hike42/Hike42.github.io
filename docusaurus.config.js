@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Bleeker | Documentation',
   tagline: 'Tout ce dont vous avez besoin pour intégrer les solutions Bleeker à vos technologies.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://bmvh.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
